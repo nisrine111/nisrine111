@@ -12,9 +12,9 @@
 name: Nisrine Fadil
 profile_title: industrial engineering student
 university: Mohammadia school of engineering
-center of interest: 
+centers_of_interest: 
   [
-    " decentralized finance",
+    "decentralized finance",
     "blockchain technology",
     "lean managment",
     "stochastic processes"

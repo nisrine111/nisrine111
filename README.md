@@ -1,6 +1,6 @@
 <p align="center">
   <b>
-    A BRIEF INTRODUCTION ABOUT ME
+    A BRIEF PERSONAL INTRODUCTION
 
   </b>
 </p>

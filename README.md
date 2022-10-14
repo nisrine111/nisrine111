@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/103/1447366706-Young_animation_animals111215_01.gif"/>
-</p>>
+</p>
 
 ```yaml
 name: Nisrine Fadil

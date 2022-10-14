@@ -19,7 +19,7 @@ fiels_of_interest:
     "lean managment",
     "stochastic processes"
    ]
-currently_learning= 
+currently_learning: 
    [
     "algorithmic trading",
     "corporate finance", 

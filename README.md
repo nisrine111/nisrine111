@@ -11,7 +11,7 @@
 ```yaml
 name: Nisrine Fadil
 profile_title: industrial engineering student
-university: Mohammadia school of engineering
+university: Mohammadia school of engineers
 centers_of_interest: 
   [
     "decentralized finance",

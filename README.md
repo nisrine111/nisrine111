@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="center">
+  <b>
+    A BRIEF INTRODUCTION ABOUT ME
 
-<!--
-**nisrine111/nisrine111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </b>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif"/>
+</p>
+
+<a href="https://www.linkedin.com/in/nisrine-fadil-3739ba1ba/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_facebook-512.png">
+</a>
+
+<p align="center">
+  <img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/103/1447366706-Young_animation_animals111215_01.gif"/>
+</p>
+
